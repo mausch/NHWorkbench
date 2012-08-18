@@ -215,7 +215,6 @@
     <EmbeddedResource Include="Resources\Coco-Mode.xshd" />
     <EmbeddedResource Include="Resources\CSharp-Mode.xshd" />
     <EmbeddedResource Include="Resources\HTML-Mode.xshd" />
-    <None Include="Migrated rules for ICSharpCode.TextEditor.ruleset" />
     <None Include="Resources\ICSharpCode.TextEditor.snk" />
     <EmbeddedResource Include="Resources\Python.xshd" />
     <EmbeddedResource Include="Resources\TextEditorControl.bmp" />
